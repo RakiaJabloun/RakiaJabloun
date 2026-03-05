@@ -1,66 +1,62 @@
 # Hi 👋 I'm Rakia Jabloun
 
-💻 Software Engineering Student  
-🚀 Full Stack Developer  
-🌍 Tunisia
+![Top Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+💻 Software Engineering Student | 🚀 Full Stack Developer | 🌍 Tunisia
 
 ---
 
-### 👩‍💻 Developer Life
+### 👩‍💻 About Me
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<p align="center">
+  <img src="b865f7b3-8d9a-4c51-9e58-ff4faf37002c.png" width="200" style="border-radius:50%;">
+</p>
 
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakiaJabloun&show_icons=true&theme=tokyonight)
-
----
-
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakiaJabloun&layout=compact&theme=tokyonight)
-
----
-
-### 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakiaJabloun&theme=tokyo-night)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RakiaJabloun&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=RakiaJabloun&color=blue)
+Hi! I’m Rakia, passionate about coding and building modern web apps. I love working with **Laravel**, **React**, **Node.js**, and other cool technologies.
 
 ---
 
 ### 🛠 Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" />
+</p>
 
-<!--
-**RakiaJabloun/RakiaJabloun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RakiaJabloun&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakiaJabloun&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RakiaJabloun&theme=onedark" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/RakiaJabloun/RakiaJabloun/blob/main/dist/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RakiaJabloun&color=blue" />
+</p>
