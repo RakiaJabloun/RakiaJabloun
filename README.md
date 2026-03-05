@@ -1,7 +1,5 @@
 # Hi 👋 I'm Rakia Jabloun
 
-![Top Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 💻 Software Engineering Student | 🚀 Full Stack Developer | 🌍 Tunisia
 
 ---
@@ -9,7 +7,7 @@
 ### 👩‍💻 About Me
 
 <p align="center">
-  <img src="b865f7b3-8d9a-4c51-9e58-ff4faf37002c.png" width="200" style="border-radius:50%;">
+  <img src="https://img.freepik.com/vecteurs-libre/cute-girl-hacker-exploitant-ordinateur-portable-dessin-anime-vecteur-icone-illustration-personnes-technologie-isolee-plat_138676-9487.jpg?semt=ais_hybrid&w=740&q=80" width="200" style="border-radius:50%;" />
 </p>
 
 Hi! I’m Rakia, passionate about coding and building modern web apps. I love working with **Laravel**, **React**, **Node.js**, and other cool technologies.
@@ -30,23 +28,11 @@ Hi! I’m Rakia, passionate about coding and building modern web apps. I love wo
 </p>
 
 ---
+### 📈 Contribution Graph
 
-### 📊 GitHub Stats
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakiaJabloun&theme=tokyo-night)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RakiaJabloun&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakiaJabloun&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RakiaJabloun&theme=onedark" />
-</p>
-
----
-
+--- 
 ### 🐍 Contribution Snake
 
 <p align="center">
