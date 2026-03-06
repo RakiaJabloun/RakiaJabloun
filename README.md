@@ -36,7 +36,7 @@ Hi! I’m Rakia, passionate about coding and building modern web apps. I love wo
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/RakiaJabloun/RakiaJabloun/blob/main/dist/github-contribution-grid-snake.svg" />
+ <img src="https://raw.githubusercontent.com/RakiaJabloun/RakiaJabloun/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
