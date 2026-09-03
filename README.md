@@ -30,13 +30,13 @@ Hi! I’m Rakia, passionate about coding and building modern web apps. I love wo
 ---
 ### 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakiaJabloun&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakiaJabloun&theme=github)
 
 --- 
 ### 🐍 Contribution Snake
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/RakiaJabloun/RakiaJabloun/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/RakiaJabloun/RakiaJabloun/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
